@@ -1,13 +1,21 @@
-# Soft Targeting - Directional melee target selection
+<p align="center">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-5.8-0E1128?logo=unrealengine&logoColor=white" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/C%2B%2B%20%2B%20Blueprint-Ready-00599C?logo=cplusplus&logoColor=white" alt="C++ and Blueprint">
+  <img src="https://img.shields.io/badge/version-1.0.0-2ea44f" alt="Version">
+  <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
+</p>
 
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.8-0E1128?logo=unrealengine&logoColor=white)
-![C++ and Blueprint](https://img.shields.io/badge/C%2B%2B%20%2B%20Blueprint-Ready-00599C?logo=cplusplus&logoColor=white)
-![Version](https://img.shields.io/badge/version-1.1.0-2ea44f)
-![License](https://img.shields.io/badge/license-MIT-blue)
+# Soft Targeting - Directional melee target selection
 
 Soft Targeting automatically selects the enemy the player most likely intends to attack. It combines movement input, character facing, distance, camera framing, target priority, visibility, and target persistence without forcing a permanent camera lock.
 
-[Download the latest release](https://github.com/Yhzan95/UE5SoftTargetingSystem/releases/latest) · [Open the Wiki](https://github.com/Yhzan95/UE5SoftTargetingSystem/wiki) · [Report an issue](https://github.com/Yhzan95/UE5SoftTargetingSystem/issues)
+<p align="center">
+  <a href="https://github.com/Yhzan95/UE5SoftTargetingSystem/releases/latest">Download the latest release</a>
+  ·
+  <a href="https://github.com/Yhzan95/UE5SoftTargetingSystem/wiki">Open the Wiki</a>
+  ·
+  <a href="https://github.com/Yhzan95/UE5SoftTargetingSystem/issues">Report an issue</a>
+</p>
 
 <p align="center">
   <img src="Images/1.png" width="49%" valign="top">
