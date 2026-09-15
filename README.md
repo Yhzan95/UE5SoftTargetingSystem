@@ -276,8 +276,6 @@ These systems remain project-specific and consume the target selected by the plu
 ## Documentation
 
 - [GitHub Wiki](https://github.com/Yhzan95/UE5SoftTargetingSystem/wiki)
-- [Getting Started](Documentation/GettingStarted.md)
-- [Blueprint API](Documentation/BlueprintAPI.md)
 
 ## Support
 
